@@ -1,0 +1,10 @@
+body
+{
+  background-color: black;    
+}
+
+a{
+    border-style: solid;
+    background-color: bisque;
+    padding: 1%;
+}
